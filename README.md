@@ -15,7 +15,31 @@ Appium Inspector
 
 # For the appium server to startup at local port type the following command in Windows cmd -
 
-appium -p 4724
+  ```` appium -p 4724 ````
+
+# For Running the project in Vscode terminal type:
+  ```` python ABC_App_Automation.py ````
+
+
+# Necessary Softwares and emulator setup
+ 1. Install android studio.
+ 2. Add a virtual device
+ 3. Add android 16.0 in the api section annd choose google playstore in services section
+ 4. Click finish to setup the emulator
+
+# Necessary software and dependencies
+1. Install JDK any vserion above 8
+2. Install Node.js
+3. Install appium server globally-
+
+   ```` npm install -g appium@next ```` (for the latest version)
+
+# Setting up Environment Variables 
+  1. %JAVA_HOME%\bin
+  2. %ANDROID_HOME%\platform-tools
+  3. %ANDROID_HOME%\tools
+ 
+
 
 # Arcone_Automation_Video link 
 https://drive.google.com/file/d/16-EiMU-OXB0wJuxK0Vy64rRjgaNebylX/view?usp=drive_link
