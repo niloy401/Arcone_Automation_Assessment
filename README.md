@@ -3,7 +3,7 @@ Test Automation in mobile application using appium with python
 
 # Setting up the environment for project in python
 
-make a project directory named as Arcone_Automation-Assessment
+make a project directory named as Arcone_Automation_Assessment
 
 # Use command - 
 pip install Appium-Python-Client
