@@ -5,8 +5,8 @@ Test Automation in mobile application using appium with python
 
 make a project directory named as Arcone_Automation_Assessment
 
-# Use command - 
-pip install Appium-Python-Client
+# Use command 
+````pip install Appium-Python-Client ````
 
 # For navigating amd locating locators inside the mobile app -
 
@@ -30,7 +30,8 @@ Appium Inspector
 # Necessary software and dependencies
 1. Install JDK any vserion above 8
 2. Install Node.js
-3. Install appium server globally-
+3. Install gradle
+4. Install appium server globally-
 
    ```` npm install -g appium@next ```` (for the latest version)
 
@@ -38,6 +39,8 @@ Appium Inspector
   1. %JAVA_HOME%\bin
   2. %ANDROID_HOME%\platform-tools
   3. %ANDROID_HOME%\tools
+  4. %Android_Home%\build-tools
+  5. %Gradle_Home%\bin
  
 
 
